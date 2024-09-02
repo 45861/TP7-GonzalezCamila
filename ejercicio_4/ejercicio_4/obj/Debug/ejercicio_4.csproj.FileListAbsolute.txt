@@ -1,0 +1,7 @@
+F:\CANO\PROYECTO\Trabajos de clases\TP7\ejercicio_4\ejercicio_4\obj\Debug\ejercicio_4.csprojAssemblyReference.cache
+F:\CANO\PROYECTO\Trabajos de clases\TP7\ejercicio_4\ejercicio_4\obj\Debug\ejercicio_4.csproj.CoreCompileInputs.cache
+F:\CANO\PROYECTO\Trabajos de clases\TP7\ejercicio_4\ejercicio_4\bin\Debug\ejercicio_4.exe.config
+F:\CANO\PROYECTO\Trabajos de clases\TP7\ejercicio_4\ejercicio_4\bin\Debug\ejercicio_4.exe
+F:\CANO\PROYECTO\Trabajos de clases\TP7\ejercicio_4\ejercicio_4\bin\Debug\ejercicio_4.pdb
+F:\CANO\PROYECTO\Trabajos de clases\TP7\ejercicio_4\ejercicio_4\obj\Debug\ejercicio_4.exe
+F:\CANO\PROYECTO\Trabajos de clases\TP7\ejercicio_4\ejercicio_4\obj\Debug\ejercicio_4.pdb

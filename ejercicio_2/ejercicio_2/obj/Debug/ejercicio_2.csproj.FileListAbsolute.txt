@@ -1,0 +1,14 @@
+F:\proyecto\Trabajos de clases\TP7\ejercicio_2\ejercicio_2\bin\Debug\ejercicio_2.exe.config
+F:\proyecto\Trabajos de clases\TP7\ejercicio_2\ejercicio_2\bin\Debug\ejercicio_2.exe
+F:\proyecto\Trabajos de clases\TP7\ejercicio_2\ejercicio_2\bin\Debug\ejercicio_2.pdb
+F:\proyecto\Trabajos de clases\TP7\ejercicio_2\ejercicio_2\obj\Debug\ejercicio_2.csprojAssemblyReference.cache
+F:\proyecto\Trabajos de clases\TP7\ejercicio_2\ejercicio_2\obj\Debug\ejercicio_2.csproj.CoreCompileInputs.cache
+F:\proyecto\Trabajos de clases\TP7\ejercicio_2\ejercicio_2\obj\Debug\ejercicio_2.exe
+F:\proyecto\Trabajos de clases\TP7\ejercicio_2\ejercicio_2\obj\Debug\ejercicio_2.pdb
+E:\CANO\PROYECTO\Trabajos de clases\TP7\ejercicio_2\ejercicio_2\bin\Debug\ejercicio_2.exe.config
+E:\CANO\PROYECTO\Trabajos de clases\TP7\ejercicio_2\ejercicio_2\bin\Debug\ejercicio_2.exe
+E:\CANO\PROYECTO\Trabajos de clases\TP7\ejercicio_2\ejercicio_2\bin\Debug\ejercicio_2.pdb
+E:\CANO\PROYECTO\Trabajos de clases\TP7\ejercicio_2\ejercicio_2\obj\Debug\ejercicio_2.csprojAssemblyReference.cache
+E:\CANO\PROYECTO\Trabajos de clases\TP7\ejercicio_2\ejercicio_2\obj\Debug\ejercicio_2.csproj.CoreCompileInputs.cache
+E:\CANO\PROYECTO\Trabajos de clases\TP7\ejercicio_2\ejercicio_2\obj\Debug\ejercicio_2.exe
+E:\CANO\PROYECTO\Trabajos de clases\TP7\ejercicio_2\ejercicio_2\obj\Debug\ejercicio_2.pdb
